@@ -11,11 +11,14 @@
 
 In this project on the home page event name, start date & end date, event location, and Image uploading are mandatory fields
   <br>
-for this project, I have used NodeJS and ExpressJS for the backend for creating and getting all the events in the frontend and MongoDB as database
+for this project, I have used NodeJS and ExpressJS for the backend for creating and getting all the events in the frontend and MongoDB as a database
   <br>
 The link for the backend repository for this project is this =>   https://github.com/siddharthagar229/Event_app_backend
   <br>
 below are the screenshots for the created application
+  <br>
+
+  Note: On the home page a small calendar is shown that displays the current month and current date  but on the event list page, the date, time, day, and month show that when the event starts 
   <br>
 Home page
 ![Screenshot 2024-10-05 231002](https://github.com/user-attachments/assets/2732e22d-a639-47d4-85cf-2c7d9c783413)
