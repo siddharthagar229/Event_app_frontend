@@ -23,7 +23,7 @@ The link for the backend repository for this project is this =>   https://github
 
 I also have deployed this site:
 <br>
-The link to backend deployment is =>   https://event-app-backend-qvjh.onrender.com
+The link to backend deployment is =>   https://event-app-backend-qvjh.onrender.com                    // First open this link then the frontend part link
 <br>
 The ink to the frontend deployment is =>   https://my-fornttt.onrender.com/
 <br>
