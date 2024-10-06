@@ -21,7 +21,11 @@ The link for the backend repository for this project is this =>   https://github
   Note: On the home page, a small calendar displays the current month and date, but on the event list page, the date, time, day, and month show when the event starts.
   <br>
 
-I also have deployed this site, link to the site is =>   https://my-fornttt.onrender.com/
+I also have deployed this site:
+<br>
+The link to backend deployment is =>   https://event-app-backend-qvjh.onrender.com
+<br>
+The ink to the frontend deployment is =>   https://my-fornttt.onrender.com/
 <br>
 
 For navigation =>
